@@ -1,4 +1,4 @@
-# Treasure-Grabbing
+# TreasureGrabbing
 Treasure Grabbing
 
 设计抓元宝的活动促进身体健康的项目，考虑以下步骤：
